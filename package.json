@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "nodejs后台模板",
+  "main": "main/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rLingMX/nodejs_backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "后台"
+  ],
+  "author": "lingmx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rLingMX/nodejs_backend/issues"
+  },
+  "homepage": "https://github.com/rLingMX/nodejs_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "silly-datetime": "^0.1.2"
+  }
+}
