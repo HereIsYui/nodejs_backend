@@ -1,4 +1,6 @@
-//控制台日志工具类
+/**
+ * 日志模块
+ */
 var fs = require('fs');
 var colors = require('colors');
 var sd = require('silly-datetime');
